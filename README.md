@@ -4,7 +4,7 @@
 2. Implementing Lambda Expressions with Functional Interfaces [[GITHUB][branch.gh.p2]]
 3. Writing Suppliers, Consumers, Predicates, and Functions [[GITHUB][branch.gh.p3]]
 4. Invoking a Lambda Expression on Objects and Primitive Types [[GITHUB][branch.gh.p4]]
-5. Creating Lambdas by Chaining and Composing Other Lambdas [[GITHUB][branch.gh.p5]]
+5. **Creating Lambdas by Chaining and Composing Other Lambdas** [[GITHUB][branch.gh.p5]]
 
 [url.course]: https://app.pluralsight.com/library/courses/lambda-expressions-java-code
 [branch.gh.main]: https://github.com/reinielfc/lrn-ps-java8-lambda-expressions/tree/main
