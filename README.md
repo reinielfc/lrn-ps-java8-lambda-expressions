@@ -1,6 +1,6 @@
 # Learn With Pluralsight: [Using Lambda Expressions in Java 8 Code][url.course]
 
-1. Course Overview [[GITHUB][branch.gh.main]]
+1. **Course Overview** [[GITHUB][branch.gh.main]]
 2. Implementing Lambda Expressions with Functional Interfaces [[GITHUB][branch.gh.p2]]
 3. Writing Suppliers, Consumers, Predicates, and Functions [[GITHUB][branch.gh.p3]]
 4. Invoking a Lambda Expression on Objects and Primitive Types [[GITHUB][branch.gh.p4]]
